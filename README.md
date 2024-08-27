@@ -21,7 +21,7 @@ To run this tool, you need Python 3 and the following libraries:
 - `beautifulsoup4`
 
 ## You can install the required libraries using pip:
-- 'pip install -r requirements.txt'
+- `pip install -r requirements.txt`
 
 ## Usage
 - `python3 AdminFinder.py <domain>`
