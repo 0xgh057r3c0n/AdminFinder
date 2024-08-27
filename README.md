@@ -20,12 +20,8 @@ To run this tool, you need Python 3 and the following libraries:
 - `requests`
 - `beautifulsoup4`
 
-You can install the required libraries using pip:
-
-```bash
-pip install -r requirements.txt
-
+## You can install the required libraries using pip:
+- 'pip install -r requirements.txt'
 
 ## Usage
-```bash
-python3 AdminFinder.py <url>
+- `python3 AdminFinder.py <domain>`
